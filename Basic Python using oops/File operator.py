@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 23 08:45:25 2024
+# Copyright (c) 2025 Mahim Dixit
+# All rights reserved.
+# Unauthorized use, modification, or distribution of this software is strictly prohibited.
 
-@author: Dixit
-"""
 class fileop():
     def __init__(self):
         self.fileobj=None
